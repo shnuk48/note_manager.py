@@ -1,14 +1,14 @@
-username = "Зорин Родион Сергеевич"
+username = "Кравченко Василий"
 
-title = "Список покупок"
+title = "Плыны на день"
 
-content = "Яйца, молоко, хлеб"
+content = "Уборка"
 
 status = "Активна"
 
-created_date = "10.12.2024"
+created_date = "21.12.2024"
 
-issue_date = "11.12.2024"
+issue_date = "22.12.2024"
 
 print("Имя пользователя", username)
 print("Заголовок", title)
