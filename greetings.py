@@ -1,7 +1,18 @@
-#задание_1
-print('Имя пользователя:', username)
-print('заголовок заметки:', title)
-print('описание заметки:', content)
-print('статус заметки:', status)
-print('дата создания заметки:', created_date)
-print('дата истечения заметки:', issue_date)
+username = "Зорин Родион Сергеевич"
+
+title = "Список покупок"
+
+content = "Яйца, молоко, хлеб"
+
+status = "Активна"
+
+created_date = "10.12.2024"
+
+issue_date = "11.12.2024"
+
+print("Имя пользователя", username)
+print("Заголовок", title)
+print("Наполнение", content)
+print("Статус", status)
+print("Дата создания", created_date)
+print("Дата дедлайна",issue_date)
